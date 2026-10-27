@@ -1,0 +1,14 @@
+:root { color-scheme: light; font-family: system-ui, -apple-system, sans-serif; color: #18312d; background: #f5f7f3; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 3rem 1.25rem; line-height: 1.7; }
+main { max-width: 48rem; margin: 0 auto; padding: clamp(1.5rem, 5vw, 3rem); background: #fff; border: 1px solid #dfe9df; border-radius: 1rem; }
+.eyebrow { margin: 0 0 .7rem; color: #467a60; font-size: .8rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; }
+h1 { margin: 0; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.12; letter-spacing: -.03em; }
+h2 { margin: 0 0 .5rem; font-size: 1.2rem; }
+.lead { color: #49625a; font-size: 1.15rem; }
+section { margin: 2rem 0; }
+section p { margin: .65rem 0; }
+a { color: #14633f; text-underline-offset: .2em; }
+.link { font-weight: 650; }
+code { overflow-wrap: anywhere; }
+
